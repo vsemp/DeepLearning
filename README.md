@@ -6,4 +6,4 @@ The SecondApproach folder has the base script that was used to train models F, G
 
 Most of FirstApproach and SecondApproach code is from Tensorflow tutorial. You can see the changes that I made in the corresponding commits I made for this purpose.
 
-log2round_package is mostly my code. It has it's own README.md. You to rebuild the whole Tensorflow to use it. The instructions of how to do this are in Tensorflow developers installation guide.
+log2round_package is mostly my code. It has it's own README.md. You need to rebuild the whole Tensorflow to use it. The instructions of how to do this are in Tensorflow developers installation guide. 
